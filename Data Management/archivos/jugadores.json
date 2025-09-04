@@ -1,0 +1,61 @@
+{
+  "jugadores": [
+    {
+      "nombre": "Lionel Messi",
+      "edad": 37,
+      "pais": "Argentina"
+    },
+    {
+      "nombre": "Cristiano Ronaldo",
+      "edad": 40,
+      "pais": "Portugal"
+    },
+    {
+      "nombre": "Enzo Fernández",
+      "edad": 23,
+      "pais": "Argentina"
+    },
+    {
+      "nombre": "Julián Álvarez",
+      "edad": 25,
+      "pais": "Argentina"
+    },
+    {
+      "nombre": "Alexis Mac Allister",
+      "edad": 26,
+      "pais": "Argentina"
+    },
+    {
+      "nombre": "Cuti Romero",
+      "edad": 27,
+      "pais": "Argentina"
+    },
+    {
+      "nombre": "Luka Modric",
+      "edad": 39,
+      "pais": "Croacia"
+    },
+    {
+      "nombre": "Kevin De Bruyne",
+      "edad": 34,
+      "pais": "Bélgica"
+    },
+    {
+      "nombre": "Erling Haaland",
+      "edad": 25,
+      "pais": "Noruega"
+    },
+    {
+      "nombre": "Kylian Mbappé",
+      "edad": 26,
+      "pais": "Francia"
+    },
+    {
+      "nombre": "Dibu Martínez",
+      "edad": 32,
+      "pais": "Argentina"
+    }
+  ]
+}
+
+
